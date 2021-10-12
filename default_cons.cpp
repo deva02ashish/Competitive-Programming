@@ -1,5 +1,4 @@
-#include<iostream>
-using namespace std;
+git push -u origin mainusing namespace std;
 class dhiru{
     public:
     int ad1,ad2;
